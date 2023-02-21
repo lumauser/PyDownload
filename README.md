@@ -6,3 +6,4 @@ PyDownload is a Python app that downloads files from download links from your de
 <br /> 3. Enjoy!
 <br /> BEWARE: THE WWW PART HAS TO BE REPLACED WITH DL
 <br /> If you have any issues, make a Issue in this repo or contact me at: jihoepicgames@gmail.com
+<br /> The downloaded files will appear where your Python file is.
