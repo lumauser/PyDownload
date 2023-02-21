@@ -37,7 +37,7 @@ class App():
         self.show_page2_button.pack_forget()
 
         root.geometry("800x400")
-        self.page2_label = tk.Label(self.master, text="Hello! I am Lumauser, the creator of this downloader! This app is used for download files from a python app. This app was made using the ")
+        self.page2_label = tk.Label(self.master, text="Hello! I am Lumauser, the creator of this downloader! This app is used for download files from a python app. Check out my Github profile!: Lumauser ")
         self.page2_label.pack()
         self.page2_button = tk.Button(self.master, text="Back to Download", command=self.show_page1)
         self.page2_button.pack()
