@@ -9,6 +9,9 @@ class App():
         self.master = master
         master.title("PyDownload")
 
+        root.geometry("400x200")
+        self.label = tk.Label(master, text="PyDownload")
+        self.label.pack()
         self.show_page2_button = tk.Button(master, text="About Page", command=self.show_page2)
         self.show_page2_button.pack()
 
